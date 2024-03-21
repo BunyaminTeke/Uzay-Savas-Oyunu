@@ -1,0 +1,17 @@
+C:\Users\tekeb\Desktop\Görsel Programlama\UzaySavasOyunu\UzaySavasOyunu\bin\Debug\net8.0-windows\UzaySavasOyunu.exe
+C:\Users\tekeb\Desktop\Görsel Programlama\UzaySavasOyunu\UzaySavasOyunu\bin\Debug\net8.0-windows\UzaySavasOyunu.deps.json
+C:\Users\tekeb\Desktop\Görsel Programlama\UzaySavasOyunu\UzaySavasOyunu\bin\Debug\net8.0-windows\UzaySavasOyunu.runtimeconfig.json
+C:\Users\tekeb\Desktop\Görsel Programlama\UzaySavasOyunu\UzaySavasOyunu\bin\Debug\net8.0-windows\UzaySavasOyunu.dll
+C:\Users\tekeb\Desktop\Görsel Programlama\UzaySavasOyunu\UzaySavasOyunu\bin\Debug\net8.0-windows\UzaySavasOyunu.pdb
+C:\Users\tekeb\Desktop\Görsel Programlama\UzaySavasOyunu\UzaySavasOyunu\obj\Debug\net8.0-windows\UzaySavasOyunu.Form1.resources
+C:\Users\tekeb\Desktop\Görsel Programlama\UzaySavasOyunu\UzaySavasOyunu\obj\Debug\net8.0-windows\UzaySavasOyunu.Resource1.resources
+C:\Users\tekeb\Desktop\Görsel Programlama\UzaySavasOyunu\UzaySavasOyunu\obj\Debug\net8.0-windows\UzaySavasOyunu.csproj.GenerateResource.cache
+C:\Users\tekeb\Desktop\Görsel Programlama\UzaySavasOyunu\UzaySavasOyunu\obj\Debug\net8.0-windows\UzaySavasOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekeb\Desktop\Görsel Programlama\UzaySavasOyunu\UzaySavasOyunu\obj\Debug\net8.0-windows\UzaySavasOyunu.AssemblyInfoInputs.cache
+C:\Users\tekeb\Desktop\Görsel Programlama\UzaySavasOyunu\UzaySavasOyunu\obj\Debug\net8.0-windows\UzaySavasOyunu.AssemblyInfo.cs
+C:\Users\tekeb\Desktop\Görsel Programlama\UzaySavasOyunu\UzaySavasOyunu\obj\Debug\net8.0-windows\UzaySavasOyunu.csproj.CoreCompileInputs.cache
+C:\Users\tekeb\Desktop\Görsel Programlama\UzaySavasOyunu\UzaySavasOyunu\obj\Debug\net8.0-windows\UzaySavasOyunu.dll
+C:\Users\tekeb\Desktop\Görsel Programlama\UzaySavasOyunu\UzaySavasOyunu\obj\Debug\net8.0-windows\refint\UzaySavasOyunu.dll
+C:\Users\tekeb\Desktop\Görsel Programlama\UzaySavasOyunu\UzaySavasOyunu\obj\Debug\net8.0-windows\UzaySavasOyunu.pdb
+C:\Users\tekeb\Desktop\Görsel Programlama\UzaySavasOyunu\UzaySavasOyunu\obj\Debug\net8.0-windows\UzaySavasOyunu.genruntimeconfig.cache
+C:\Users\tekeb\Desktop\Görsel Programlama\UzaySavasOyunu\UzaySavasOyunu\obj\Debug\net8.0-windows\ref\UzaySavasOyunu.dll
